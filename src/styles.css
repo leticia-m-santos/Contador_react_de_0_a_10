@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pixelify+Sans:wght@400;700&family=REM:wght@600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  font-family: "Pixelify Sans", cursive;
+  font-size: 5vh;
+  text-align: center;
+  margin: 5vh;
+  background-size: 100% 100%;
+  border: solid rgb(19, 81, 117);
+  border-radius: 10%;
+  background-image: url(https://images.tcdn.com.br/img/img_prod/732209/painel_de_festa_fundo_mar_em_tecido_2745_1_ee2176ae2af383656333e97f013a1b6e.jpg);
+}
+p {
+  font-size: 25vh;
+}
+button {
+  font-family: "REM", sans-serif;
+  width: 15vh;
+  margin: 5vh;
+  height: 15vh;
+  border-radius: 50%;
+  background-color: lightseagreen;
+}
